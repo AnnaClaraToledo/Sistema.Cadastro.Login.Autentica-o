@@ -10,7 +10,6 @@ Sistema de autenticação completo desenvolvido em Django com interface moderna 
 
 ## ✨ Características
 
-- 💙 **Interface moderna em tons de azul**
 - 🔐 **Sistema completo de autenticação**
 - ✅ Cadastro de usuários
 - 🔑 Login e Logout
